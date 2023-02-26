@@ -2,7 +2,7 @@
 
 Website Frond-end Developer with >1 years of experience building and deploying scalable web applications, always ready to learn new things to fit the job needs.
 
-[Email](mailto:sonhn980@gmail.com) / [Facebook](https://www.facebook.com/sn0w2k/)
+[Email](mailto:sonhn980@gmail.com) / [Facebook](https://www.facebook.com/sn0w2k/) / [LinkedIn](https://www.linkedin.com/in/son-hoang-211a67267/)
 
 ## 💻 Experience
 **Website Frond-end Developer** @ **[Bright Software Solution](https://www.brightsoftsolution.com/)** (2019 - 2023)<br>
