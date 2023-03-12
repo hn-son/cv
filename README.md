@@ -1,6 +1,9 @@
 # Hoang Ngoc Son
 
 Website Frond-end Developer with >1 years of experience building and deploying scalable web applications, always ready to learn new things to fit the job needs.
+<br>
+<br>
+Phone number: 0961395980
 
 [Email](mailto:sonhn980@gmail.com) / [Facebook](https://www.facebook.com/sn0w2k/) / [LinkedIn](https://www.linkedin.com/in/son-hoang-211a67267/)
 
