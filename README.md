@@ -3,7 +3,7 @@
 Website Frond-end Developer with 2 years of experience building and deploying scalable web applications, always ready to learn new things to fit the job needs.
 <br>
 <br>
-Phone number: 0961395980
+Phone number: 0981760258
 
 [Email](mailto:sonhn980@gmail.com) / [Facebook](https://www.facebook.com/sn0w2k/) / [LinkedIn](https://www.linkedin.com/in/son-hoang-211a67267/)
 
@@ -29,6 +29,7 @@ Working for Swedish, India and Europe clients, focus on new technology and be fl
 
 ## 🎓 Education
 [Academy of Cryptography Techniques](https://www.actvn.edu.vn/) - Hanoi, Vietnam (2018 - 2023) <br>
+[Viện công nghệ thông tin T3H](https://t3h.edu.vn/) - Hanoi, Vietnam (2020)
 
 ---
 
