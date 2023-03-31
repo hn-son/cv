@@ -5,7 +5,7 @@ Website Frond-end Developer with 2 years of experience building and deploying sc
 <br>
 Phone number: 0981760258
 
-[Email](mailto:sonhn980@gmail.com) / [Facebook](https://www.facebook.com/sn0w2k/) / [LinkedIn](https://www.linkedin.com/in/son-hoang-211a67267/)
+[Email](mailto:sonhn980@gmail.com) / [Facebook](https://www.facebook.com/sn0w2k/) / [LinkedIn](https://www.linkedin.com/in/snow2k/)
 
 ## 💻 Experience
 **Website Frond-end Developer** @ **[Bright Software Solution](https://www.brightsoftsolution.com/)** (2021 - 2023)<br>
