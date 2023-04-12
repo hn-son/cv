@@ -27,7 +27,7 @@ Working for Swedish, India and Europe clients, focus on new technology and be fl
 Schools management, focus on creating surveys for students, manage students and classes.
 - Developed and maintained web application to manage projects and tasks using ReactJS.
 - Maintained and fixed client site bugs.
-- **Technologies used:** `ReactJS, Typescript, Redux, SCSS/SASS, MUI, Bootstrap.`
+- **Technologies used:** `ReactJS, Typescript, Redux, SCSS/SASS, MUI, Bootstrap, ApexChart.`
 
 
 ---
