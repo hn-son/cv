@@ -38,15 +38,12 @@ Schools management, focus on creating surveys for students, manage students and 
 - Bootstrap, SASS/SCSS, Material UI
 - Responsive design
 
-<br>
 **Back-end development:**
 - MSSQL
 
-<br>
 **Source code management tool:**
 - Git, Bitbucket
 
-<br>
 **Project management tools:**
 - Trello, Notion
 ---
