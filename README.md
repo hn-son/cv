@@ -29,7 +29,19 @@ Schools management, focus on creating surveys for students, manage students and 
 - Maintained and fixed client site bugs.
 - **Technologies used:** `ReactJS, Typescript, Redux, SCSS/SASS, MUI, Bootstrap, ApexChart.`
 
-
+---
+## 🛠 Skills
+**Front-end development:**
+- HTML, CSS, JavaScript, TypeScript
+- Reactjs
+- Bootstrap, SASS/SCSS, Material UI
+- Responsive design
+**Back-end development:**
+- MSSQL
+**Source code management tool:**
+- Git, Bitbucket
+**Project management tools:**
+- Trello, Notion
 ---
 
 ## 💬 Languages
