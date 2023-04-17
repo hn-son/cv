@@ -31,6 +31,7 @@ Schools management, focus on creating surveys for students, manage students and 
 
 ---
 ## 🛠 Skills
+
 **Front-end development:**
 - HTML, CSS, JavaScript, TypeScript
 - Reactjs
