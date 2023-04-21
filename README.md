@@ -1,6 +1,6 @@
 # Hoang Ngoc Son
 
-Website Frond-end Developer with 2 years of experience building front-end web applications, always ready to learn new things to fit the job needs.
+Website Frond-end Developer with 1.5 years of experience building front-end web applications, always ready to learn new things to fit the job needs.
 <br>
 <br>
 Phone number: 0981760258
