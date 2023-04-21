@@ -47,6 +47,7 @@ Schools management, focus on creating surveys for students, manage students and 
 **Project management tools:**
 - Trello, Notion
 <br>
+
 ---
 
 ## 💬 Languages
