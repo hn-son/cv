@@ -5,7 +5,7 @@ Website Frond-end Developer with 1.5 years of experience building front-end web 
 <br>
 Phone number: 0981760258
 
-[Email](mailto:sonhn980@gmail.com) / [Facebook](https://www.facebook.com/sn0w2k/) / [LinkedIn](https://www.linkedin.com/in/snow2k/)
+[Email](mailto:sonhn258@gmail.com) / [Facebook](https://www.facebook.com/sn0w2k/) / [LinkedIn](https://www.linkedin.com/in/snow2k/)
 
 
 ## 🎓 Education
@@ -15,7 +15,7 @@ Phone number: 0981760258
 
 ---
 ## 💻 Experience
-**Website Frond-end Developer** @ **[Bright Software Solution](https://www.brightsoftsolution.com/)** (2021 - 2023)<br>
+**Website Frond-end Developer** @ **[Bright Software Solution](https://www.brightsoftsolution.com/)** (11/2021 - 02/2023)<br>
 Working for Swedish, India and Europe clients, focus on new technology and be flexible in work.
 - Developed and maintained web application to manage projects and tasks using ReactJS.
 - **Technologies used:** `TypeScript, ReactJS, Redux, Bootstrap, MUI, SCSS.`
@@ -23,7 +23,7 @@ Working for Swedish, India and Europe clients, focus on new technology and be fl
 ---
 
 ## 📱 Projects
-**[Mario Framework](https://marioframework.com/software/)** (2021 - 2023)<br>
+**[Mario Framework](https://marioframework.com/software/)** (11/2021 - 02/2023)<br>
 Schools management, focus on creating surveys for students, manage students and classes.
 - Developed and maintained web application to manage projects and tasks using ReactJS.
 - Maintained and fixed client site bugs.
