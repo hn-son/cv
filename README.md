@@ -1,6 +1,6 @@
 # Hoang Ngoc Son
 
-Website Frond-end Developer with 1.5 years of experience building front-end web applications, always ready to learn new things to fit the job needs.
+As a Front-End Developer with over a year of experience in developing web applications using ReactJS and related technologies. Ability to build interactive user interfaces, optimize performance and have knowledge of frontend development principles. Willing to learn and explore new technology to enhance application development ability.
 <br>
 <br>
 Phone number: 0981760258
@@ -15,39 +15,43 @@ Phone number: 0981760258
 
 ---
 ## 💻 Experience
-**Website Frond-end Developer** @ **[Bright Software Solution](https://www.brightsoftsolution.com/)** (11/2021 - 02/2023)<br>
-Working for Swedish, India and Europe clients, focus on new technology and be flexible in work.
-- Developed and maintained web application to manage projects and tasks using ReactJS.
-- **Technologies used:** `TypeScript, ReactJS, Redux, Bootstrap, MUI, SCSS.`
+**Website Frond-end Developer** @ **[Bright Software Solution](https://www.brightsoftsolution.com/)** (01/2022 - 03/2023)<br>
+- Participate in consultation, exchange, and answer questions. Analyze customer application requirements.
+- Participate in analysis and design of interfaces and applications for customers.
+- Maintenance, reporting, performance optimization, application security.
+- Support troubleshooting.
+- Learn new technology, techniques, improve current technology in line with the company's goals/strategies.
+<br>
+<br>
+<br>
+
+**Intern Website Frond-end Developer** @ **[Bright Software Solution](https://www.brightsoftsolution.com/)** (11/2021 - 01/2022)<br>
+- Learn technology and techniques suitable for the company's projects.
+- Participate in supporting, checking and troubleshooting in company projects.
 
 ---
 
 ## 📱 Projects
-**[Mario Framework](https://marioframework.com/software/)** (11/2021 - 02/2023)<br>
+**[Mario Framework](https://marioframework.com/software/)** (11/2021 - 03/2023)<br>
 Schools management, focus on creating surveys for students, manage students and classes.
-- Developed and maintained web application to manage projects and tasks using ReactJS.
+- Analyze and design student management interface for teachers.
+- Analyze and design test interfaces for both teachers and students.
+- Analyze and design admin interface.
 - Maintained and fixed client site bugs.
 - **Role:** `FrontEnd Developer`
 - **Number of members:** `4`
-- **Technologies used:** `ReactJS, Typescript, Redux, SCSS/SASS, MUI, Bootstrap, ApexChart.`
+- **Technologies used:** `ReactJS, Typescript, Redux, SCSS/SASS, MUI, Bootstrap, ApexChart, ASP.NET, MSSQL.`
 
 ---
 ## 🛠 Skills
 
-**Front-end development:**
-- HTML, CSS, JavaScript, TypeScript
-- Reactjs
-- Bootstrap, SASS/SCSS, Material UI
-- Responsive design
-
-**Back-end development:**
-- MSSQL
-
-**Source code management tool:**
-- Git, Bitbucket
-
-**Project management tools:**
-- Trello, Notion
+- Troubleshooting and debugging.
+- Analysis of requirements.
+- Research and propose new technologies.
+- Programming UI/UX based on ReactJS.
+- Working with frontend JS frameworks, reactJS.
+- Working with React/React Native source code and conventions, Typescript, React Component, Redux, Flexbox, CSS Framework (Bootstrap, Zurb, ..), CSS Preprocessor (LESS, SASS, ..).
+- Responsive web design, working with RESTful APIs.
 
 ---
 
@@ -58,3 +62,13 @@ Schools management, focus on creating surveys for students, manage students and 
 ---
 ## 📃 Certificate
 **TEOIC**: 530 (2019 - 2021)
+
+---
+
+## 🏀 Interest
+**Badminton, Billiards, E-sport**
+
+---
+## 📝 More Infor
+**Github**: https://github.com/hn-son <br>
+**Github**: https://github.com/binxeko-hns
