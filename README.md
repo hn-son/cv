@@ -50,7 +50,7 @@ Schools management, focus on creating surveys for students, manage students and 
 - Research and propose new technologies.
 - Programming UI/UX based on ReactJS.
 - Working with frontend JS frameworks, reactJS.
-- Working with React/React Native source code and conventions, Typescript, React Component, Redux, Flexbox, CSS Framework (Bootstrap, Zurb, ..), CSS Preprocessor (LESS, SASS, ..).
+- Working with React source code and conventions, Typescript, React Component, Redux, Flexbox, CSS Framework (Bootstrap, ..), CSS Preprocessor (LESS, SASS, ..).
 - Responsive web design, working with RESTful APIs.
 
 ---
