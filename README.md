@@ -9,7 +9,7 @@ Phone number: 0981760258
 
 
 ## 🎓 Education
-[Academy of Cryptography Techniques](https://www.actvn.edu.vn/) - Hanoi, Vietnam (2018 - 2023) <br>
+[Academy of Cryptography Techniques](https://www.actvn.edu.vn/) - Hanoi, Vietnam (2018 - 2024) <br>
 [Viện công nghệ thông tin T3H](https://t3h.edu.vn/) - Hanoi, Vietnam (2020)
 
 
